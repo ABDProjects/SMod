@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Spotify, your way.</strong><br>
-  A local customization framework for the Spotify desktop client.
+  A local customisation framework for the Spotify desktop client.
 </p>
 
 <p align="center">
